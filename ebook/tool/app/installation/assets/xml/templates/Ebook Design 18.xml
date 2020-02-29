@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/60.png">
+  <item type="text" index="1" font="Myriad Pro" size="68" color="6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704@@@6952704" xpos="131.65" ypos="13.1" alignment="left" rotation="0" scalex="0.3471372127532959" scaley="0.3681638538837433" filter="false"><![CDATA[DESIGN MEDIA]]></item>
+  <item type="text" index="2" font="Myriad Pro" size="68" color="6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945@@@6098945" xpos="165.2" ypos="42.7" alignment="left" rotation="0" scalex="0.2024078369140625" scaley="0.2024078369140625" filter="false"><![CDATA[P R E S E N T S]]></item>
+  <item type="text" index="3" font="Myriad Pro Cond" size="68" color="6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992" xpos="1.25" ypos="134.35" alignment="center" rotation="0" scalex="0.9832742214202881" scaley="0.9832742214202881" filter="false"><![CDATA[The Mob   le]]></item>
+  <item type="text" index="4" font="Myriad Pro Cond" size="68" color="6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992@@@6036992" xpos="133.95" ypos="189.35" alignment="center" rotation="0" scalex="0.9857776165008545" scaley="0.9857776165008545" filter="false"><![CDATA[Revolution]]></item>
+  <item type="image" index="5" source="assets/images/others/IPHONE4 Black.png" xpos="213.3" ypos="157.7" width="22.8" height="44.65" rotation="0"/>
+  <item type="shape" index="6" shape_type="Rectangle" color="9576192 " xpos="-17.5" ypos="210.8" width="158" height="44.7" rotation="0"/>
+  <item type="shape" index="7" shape_type="Rectangle" color="9576192 " xpos="294.15" ypos="155.6" width="158" height="44.7" rotation="0"/>
+  <item type="text" index="8" font="Myriad Pro" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="221.45" ypos="511" alignment="left" rotation="0" scalex="0.3471221923828125" scaley="0.36814889311790466" filter="false"><![CDATA[BETHANY CHRISTY]]></item>
+  <item type="shape" index="9" shape_type="Circle" color="9576192 " xpos="266.25" ypos="276" width="123.3" height="123.3" rotation="0"/>
+  <item type="image" index="10" source="uploaded_image/527bb7e441f82.png" xpos="273.95" ypos="288.5" width="110.8" height="94.75" rotation="0"/>
+  <item type="shape" index="11" shape_type="Circle" color="9576192 " xpos="237.05" ypos="272.7" width="45" height="45" rotation="0"/>
+  <item type="shape" index="12" shape_type="Circle" color="9576192 " xpos="206.25" ypos="286.85" width="33.3" height="33.3" rotation="0"/>
+  <item type="shape" index="13" shape_type="Circle" color="9576192 " xpos="157.25" ypos="318.75" width="25.85" height="25.85" rotation="9.257284507738683"/>
+  <item type="shape" index="14" shape_type="Circle" color="9576192 " xpos="82.25" ypos="350.4" width="60.4" height="60.4" rotation="9.255965897417445"/>
+  <item type="shape" index="15" shape_type="Circle" color="9576192 " xpos="56" ypos="392.05" width="32.5" height="32.5" rotation="9.255619600743362"/>
+</data>

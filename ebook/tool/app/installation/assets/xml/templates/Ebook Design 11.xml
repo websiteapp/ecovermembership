@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/17.png">
+  <item type="image" index="0" source="assets/images/others/IMAC.png" xpos="29.75" ypos="124.75" width="353.85" height="284.45" rotation="0"/>
+  <item type="shape" index="1" shape_type="Rectangle" color="6262528 " xpos="43.5" ypos="140" width="326.3" height="181.3" rotation="0"/>
+  <item type="text" index="2" font="Impact" size="68" color="2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513@@@2697513" xpos="135.4" ypos="474.55" alignment="center" rotation="0" scalex="0.3393932282924652" scaley="0.3393932282924652" filter="true"><![CDATA[DR. DUDE LITTLE]]></item>
+  <item type="text" index="3" font="Myriad Pro" size="68" color="2565927@@@2565927@@@2565927@@@2565927@@@2565927@@@2565927" xpos="181.85" ypos="504.35" alignment="left" rotation="0" scalex="0.2053186595439911" scaley="0.2053186595439911" filter="true"><![CDATA[AUTHOR]]></item>
+  <item type="text" index="4" font="Franchise" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="39.55" ypos="167.9" alignment="center" rotation="0" scalex="0.9791674613952637" scaley="0.9791674613952637" filter="false"><![CDATA[39 Ways To Live]]></item>
+  <item type="image" index="5" source="uploaded_image/527a6cf85b98b.png" xpos="253.75" ypos="297.25" width="132.2" height="119.3" rotation="0"/>
+  <item type="shape" index="6" shape_type="Circle" color="3823360 " xpos="373.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="7" shape_type="Circle" color="83080 " xpos="33.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="8" shape_type="Circle" color="83080 " xpos="53.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="9" shape_type="Circle" color="83080 " xpos="73.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="10" shape_type="Circle" color="83080 " xpos="93.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="11" shape_type="Circle" color="83080 " xpos="113.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="12" shape_type="Circle" color="83080 " xpos="133.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="13" shape_type="Circle" color="83080 " xpos="153.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="14" shape_type="Circle" color="83080 " xpos="173.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="15" shape_type="Circle" color="83080 " xpos="193.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="16" shape_type="Circle" color="83080 " xpos="373.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="17" shape_type="Circle" color="83080 " xpos="213.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="18" shape_type="Circle" color="83080 " xpos="233.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="19" shape_type="Circle" color="83080 " xpos="253.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="20" shape_type="Circle" color="83080 " xpos="273.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="21" shape_type="Circle" color="83080 " xpos="293.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="22" shape_type="Circle" color="83080 " xpos="313.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="23" shape_type="Circle" color="83080 " xpos="333.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="24" shape_type="Circle" color="83080 " xpos="353.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="25" shape_type="Circle" color="83080 " xpos="13.75" ypos="79.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="26" shape_type="Circle" color="3823360 " xpos="13.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="27" shape_type="Circle" color="3823360 " xpos="33.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="28" shape_type="Circle" color="3823360 " xpos="53.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="29" shape_type="Circle" color="3823360 " xpos="73.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="30" shape_type="Circle" color="3823360 " xpos="93.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="31" shape_type="Circle" color="3823360 " xpos="113.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="32" shape_type="Circle" color="3823360 " xpos="133.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="33" shape_type="Circle" color="3823360 " xpos="153.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="34" shape_type="Circle" color="3823360 " xpos="173.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="35" shape_type="Circle" color="3823360 " xpos="193.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="36" shape_type="Circle" color="3823360 " xpos="213.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="37" shape_type="Circle" color="3823360 " xpos="233.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="38" shape_type="Circle" color="3823360 " xpos="253.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="39" shape_type="Circle" color="3823360 " xpos="273.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="40" shape_type="Circle" color="3823360 " xpos="293.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="41" shape_type="Circle" color="3823360 " xpos="313.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="42" shape_type="Circle" color="3823360 " xpos="333.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="shape" index="43" shape_type="Circle" color="3823360 " xpos="353.75" ypos="439.35" width="19.15" height="20.6" rotation="0"/>
+  <item type="text" index="44" font="Impact" size="68" color="83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080@@@83080" xpos="133.75" ypos="10" alignment="center" rotation="0" scalex="0.3393860459327698" scaley="0.3393860459327698" filter="true"><![CDATA[OWL NETWORKS]]></item>
+  <item type="text" index="45" font="Franchise" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="40.6" ypos="224.55" alignment="center" rotation="0" scalex="0.9466644525527954" scaley="0.9466644525527954" filter="false"><![CDATA[A Healthier Life]]></item>
+  <item type="image" index="46" source="assets/images/others/13.png" xpos="241.6" ypos="370" width="47.6" height="46.25" rotation="0"/>
+  <item type="text" index="47" font="Myriad Pro" size="68" color="26016@@@26016@@@26016@@@26016@@@26016@@@26016@@@26016@@@26016" xpos="178.3" ypos="38.95" alignment="left" rotation="0" scalex="0.2053186595439911" scaley="0.2053186595439911" filter="true"><![CDATA[PRESENTS]]></item>
+</data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/29.png">
+  <item type="shape" index="0" shape_type="Rectangle" color="14336258 " xpos="2" ypos="101" width="410" height="150" rotation="0"/>
+  <item type="text" index="1" font="ChunkFive Roman" size="68" color="6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912@@@6310912" xpos="20.75" ypos="109" alignment="left" rotation="0" scalex="0.8831092715263367" scaley="0.8831092715263367"><![CDATA[unL   CKING]]></item>
+  <item type="text" index="2" font="ChunkFive Roman" size="68" color="16259584@@@16259584@@@16259584@@@16259584@@@16259584@@@16259584@@@16259584@@@16259584" xpos="17.75" ypos="165.75" alignment="left" rotation="0" scalex="0.981721818447113" scaley="0.981721818447113"><![CDATA[MIRACLES]]></item>
+  <item type="image" index="3" source="uploaded_image/51d71fd07d62f.png" xpos="121.5" ypos="128.25" width="58.9" height="58.9" rotation="-30.06027266054734"/>
+  <item type="shape" index="4" shape_type="Rectangle" color="14336258 " xpos="-1.5" ypos="239.5" width="443.9" height="39.75" rotation="4.002185946896794"/>
+  <item type="shape" index="5" shape_type="Rectangle" color="14336258 " xpos="-5.5" ypos="316.5" width="443.7" height="39.75" rotation="4.0013027972013075"/>
+  <item type="shape" index="6" shape_type="Rectangle" color="14336258 " xpos="3.75" ypos="349" width="441.75" height="39.6" rotation="11.009672289053372"/>
+  <item type="shape" index="7" shape_type="Rectangle" color="14336258 " xpos="-19.5" ypos="469.25" width="441.3" height="13.45" rotation="-1.2503579128194413"/>
+  <item type="shape" index="8" shape_type="Rectangle" color="14336258 " xpos="4.5" ypos="464.5" width="443.5" height="39.75" rotation="4.001311883287483"/>
+  <item type="shape" index="9" shape_type="Rectangle" color="14336258 " xpos="-7.5" ypos="307.25" width="441.25" height="13.45" rotation="-1.2503952667149698"/>
+  <item type="shape" index="10" shape_type="Rectangle" color="14336258 " xpos="0.5" ypos="90.25" width="441.2" height="13.45" rotation="-1.2504412193952141"/>
+  <item type="shape" index="11" shape_type="Rectangle" color="14336258 " xpos="-0.5" ypos="31.5" width="443.7" height="39.75" rotation="4.001364148504296"/>
+  <item type="shape" index="12" shape_type="Rectangle" color="14336258 " xpos="-9.75" ypos="-1" width="440.7" height="39.5" rotation="-4.765428943204609"/>
+  <item type="text" index="13" font="BlackJack" size="25" color="5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592@@@5326592" xpos="99" ypos="47" alignment="left" rotation="0" scalex="1" scaley="1"><![CDATA[Instant EBook Presence]]></item>
+  <item type="text" index="14" font="Myriad Pro Cond" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="12.75" ypos="416" alignment="left" rotation="0" scalex="0.5324957966804504" scaley="0.5324957966804504"><![CDATA[JOHN CRUZ]]></item>
+</data>

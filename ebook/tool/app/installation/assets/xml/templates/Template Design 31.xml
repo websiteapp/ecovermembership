@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/28.png">
+  <item type="text" index="0" font="Myriad Pro Cond" size="28" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="86.25" ypos="24" alignment="center" rotation="0" scalex="0.8920729756355286" scaley="0.8920729756355286"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+  <item type="shape" index="1" shape_type="Rectangle" color="16777215 " xpos="-5" ypos="316" width="434" height="160" rotation="0"/>
+  <item type="text" index="2" font="Myriad Pro Cond" size="28" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="135.25" ypos="486.25" alignment="center" rotation="0" scalex="1.3029402494430542" scaley="1.3029402494430542"><![CDATA[JOHN CRUZ]]></item>
+  <item type="text" index="3" font="ChunkFive Roman" size="68" color="1064437@@@1064437@@@1064437@@@1064437@@@1064437@@@1064437@@@1064437" xpos="20.75" ypos="211.75" alignment="left" rotation="0" scalex="1.053863525390625" scaley="1.053863525390625"><![CDATA[GOODBYE]]></item>
+  <item type="text" index="4" font="Franchise" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="31.25" ypos="332.5" alignment="center" rotation="0" scalex="0.5661857724189758" scaley="0.5661857724189758"><![CDATA[HOW TO GET BEYOND ONE WORD
+THAT STANDS BETWEEN]]></item>
+  <item type="shape" index="5" shape_type="Circle" color="16777215 " xpos="360" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="shape" index="6" shape_type="Circle" color="16777215 " xpos="72" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="shape" index="7" shape_type="Circle" color="16777215 " xpos="52" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="shape" index="8" shape_type="Circle" color="16777215 " xpos="32" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="shape" index="9" shape_type="Circle" color="16777215 " xpos="320" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="shape" index="10" shape_type="Circle" color="16777215 " xpos="340" ypos="35" width="12" height="12" rotation="0"/>
+  <item type="image" index="11" source="assets/images/tags/TAG 1.png" xpos="277.25" ypos="53.75" width="130" height="127.1" rotation="11.021803486878639"/>
+  <item type="text" index="12" font="ChunkFive Roman" size="68" color="16719119@@@16719119@@@16719119" xpos="282.25" ypos="96.25" alignment="left" rotation="0" scalex="0.6232692003250122" scaley="0.6232692003250122"><![CDATA[BUT]]></item>
+  <item type="text" index="13" font="ChunkFive Roman" size="68" color="16193792@@@16193792@@@16193792" xpos="21.5" ypos="409.25" alignment="left" rotation="0" scalex="0.6450551152229309" scaley="0.6450551152229309"><![CDATA[YOU]]></item>
+  <item type="text" index="14" font="ChunkFive Roman" size="68" color="16193792@@@16193792@@@16193792@@@16193792@@@16193792@@@16193792@@@16193792" xpos="177.5" ypos="408.25" alignment="left" rotation="0" scalex="0.6423422694206238" scaley="0.6423422694206238"><![CDATA[SUCCESS]]></item>
+  <item type="text" index="15" font="Myriad Pro Cond" size="28" color="19914@@@19914@@@19914@@@19914@@@19914@@@19914@@@19914@@@19914@@@19914" xpos="10.25" ypos="147.5" alignment="center" rotation="0" scalex="2.2857208251953125" scaley="2.2857208251953125"><![CDATA[KISS YOUR]]></item>
+  <item type="text" index="16" font="BlackJack" size="68" color="0@@@0@@@0" xpos="113.75" ypos="412.5" alignment="center" rotation="0" scalex="0.5101549625396729" scaley="0.5101549625396729"><![CDATA[and]]></item>
+</data>

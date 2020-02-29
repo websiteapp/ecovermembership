@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/28.png">
+  <item type="image" index="0" source="assets/images/labels/LABEL 2.png" xpos="72" ypos="134.35" width="334.2" height="312.6" rotation="0"/>
+  <item type="text" index="1" font="Franchise" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="155" ypos="189.35" alignment="center" rotation="0" scalex="0.27625054121017456" scaley="0.27625054121017456" filter="false"><![CDATA[TOGETHER WE LEARN COMPANY]]></item>
+  <item type="image" index="3" source="uploaded_image/52798b5d944d4.png" xpos="12" ypos="143.2" width="154.2" height="320.9" rotation="0"/>
+  <item type="text" index="4" font="Franchise" size="68" color="726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738@@@726738" xpos="154.2" ypos="263.8" alignment="center" rotation="0" scalex="0.7404518723487854" scaley="0.7404518723487854" filter="false"><![CDATA[EARN AND LEARN]]></item>
+  <item type="image" index="5" source="assets/images/labels/red_badge.png" xpos="277.6" ypos="378.2" width="120.6" height="112.4" rotation="0"/>
+  <item type="text" index="6" font="ChunkFive Roman" size="68" color="16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771" xpos="304.4" ypos="418.95" alignment="center" rotation="-0.24943758584761125" scalex="0.22081202904803252" scaley="0.22081202904803252" filter="false"><![CDATA[LATEST
+EDITION]]></item>
+  <item type="text" index="7" font="Arial" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="162.6" ypos="254" alignment="center" rotation="0" scalex="0.2026214599609375" scaley="0.2026214599609375" filter="false"><![CDATA[10 STEPS ON HOW TO]]></item>
+  <item type="text" index="8" font="Arial" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="162.8" ypos="309.8" alignment="center" rotation="0" scalex="0.18416237831115723" scaley="0.18416237831115723" filter="false"><![CDATA[ABOUT ONLINE ENTREPRENEURSHIP]]></item>
+</data>

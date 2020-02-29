@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/3.png">
+  <item type="shape" index="0" shape_type="Rectangle" color="12189641 " xpos="-18.15" ypos="-37.25" width="449.8" height="349.9" rotation="0"/>
+  <item type="text" index="1" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@16548630@@@16548630@@@16548630@@@16548630@@@16548630@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="103.4" ypos="24.3" alignment="center" rotation="0" scalex="0.4046783447265625" scaley="0.4046783447265625"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+  <item type="text" index="2" font="Mako" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="117.25" ypos="490.9" alignment="center" rotation="0" scalex="0.468597412109375" scaley="0.468597412109375"><![CDATA[JOHN CRUZ]]></item>
+  <item type="text" index="3" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="67.95" ypos="45.65" alignment="center" rotation="0" scalex="1.0344735383987427" scaley="1.0344735383987427"><![CDATA[MAKE MONEY ]]></item>
+  <item type="image" index="4" source="uploaded_image/51e0485fe2d46.png" xpos="-3.4" ypos="283.85" width="416.15" height="264.65" rotation="0"/>
+  <item type="image" index="5" source="assets/images/ribbions/gift-ribbion-1.png" xpos="-11.8" ypos="226.35" width="425.8" height="116.25" rotation="0"/>
+  <item type="text" index="6" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="51.8" ypos="91.55" alignment="center" rotation="0" scalex="1.9783039093017578" scaley="1.9783039093017578"><![CDATA[ONLINE]]></item>
+  <item type="image" index="7" source="assets/images/ribbions/red.png" xpos="-20.9" ypos="-15.4" width="158.75" height="141.65" rotation="0"/>
+  <item type="text" index="8" font="League Gothic" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="0.45" ypos="54.5" alignment="center" rotation="-35.8379787265471" scalex="0.47921588617130195" scaley="0.47921588617130195"><![CDATA[BEST BUY]]></item>
+</data>

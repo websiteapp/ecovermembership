@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+		<item word="undo"><![CDATA[UNDO]]></item>
+		<item word="redo"><![CDATA[REDO]]></item>
+		<item word="save"><![CDATA[SAVE]]></item>
+		<item word="load"><![CDATA[LOAD]]></item>
+		<item word="upload_image"><![CDATA[Upload Image]]></item>
+		<item word="bring_forward"><![CDATA[Bring Forward]]></item>
+		<item word="send_backward"><![CDATA[Send Backward]]></item>
+		<item word="color"><![CDATA[Color]]></item>
+		<item word="delete"><![CDATA[Delete]]></item>
+		<item word="download_option"><![CDATA[DOWNLOAD OPTIONS]]></item>
+		
+		<item word="text"><![CDATA[TEXT]]></item>
+		<item word="graphics"><![CDATA[GRAPHICS]]></item>
+		<item word="background"><![CDATA[BACKGROUND]]></item>
+		<item word="Templates"><![CDATA[TEMPLATES]]></item>
+		
+		<item word="enter_file_name"><![CDATA[ENTER YOUR NEW FILE NAME]]></item>
+		<item word="save_yes"><![CDATA[Save]]></item>
+		<item word="cancel"><![CDATA[Cancel]]></item>
+		
+		<item word="saving_successfull"><![CDATA[SAVING SUCCESSFUL!]]></item>
+		<item word="saving_design"><![CDATA[SAVING DESIGN....]]></item>
+		<item word="loading"><![CDATA[LOADING....]]></item>
+		<item word="uploading_image"><![CDATA[UPLOADING IMAGE....]]></item>
+		<item word="loading_image"><![CDATA[LOADING IMAGE....]]></item>
+	
+		<item word="size"><![CDATA[SIZE]]></item>
+		<item word="type"><![CDATA[TYPE]]></item>
+		<item word="add_text"><![CDATA[ADD TEXT]]></item>
+		
+		<item word="your_text"><![CDATA[YOUR TEXT]]></item>
+		<item word="drop_shadow_on"><![CDATA[DROP SHADOW ON]]></item>
+		
+		<item word="ribbon"><![CDATA[RIBBON]]></item>
+		<item word="shape"><![CDATA[SHAPE]]></item>
+		<item word="label"><![CDATA[LABEL]]></item>
+		<item word="tag"><![CDATA[TAG]]></item>
+		<item word="light"><![CDATA[LIGHT]]></item>
+		<item word="other"><![CDATA[OTHER]]></item>
+		
+		<item word="option1"><![CDATA[Paper Back Cover]]></item>
+		<item word="option2"><![CDATA[Hard Cover Book]]></item>
+		<item word="option3"><![CDATA[Hard Cover Book-Open]]></item>
+		<item word="option4"><![CDATA[Ring Binder Cover]]></item>
+		<item word="option5"><![CDATA[Soft Cover Book-Laying]]></item>
+		<item word="option6"><![CDATA[Soft Cover Book2-Laying]]></item>
+		<item word="option7"><![CDATA[Hard Cover Book-Laying]]></item>
+		<item word="option8"><![CDATA[Thick Hard Cover Book-Laying]]></item>
+		<item word="option9"><![CDATA[Magazine Cover Laying]]></item>
+		<item word="option10"><![CDATA[CD Case Cover]]></item>
+		<item word="option11"><![CDATA[DVD Case Cover]]></item>
+		<item word="option12"><![CDATA[DVD Case Cover with Disc]]></item>
+		
+		<item word="download_3d_cover"><![CDATA[DOWNLOAD 3D COVER]]></item>
+</data>

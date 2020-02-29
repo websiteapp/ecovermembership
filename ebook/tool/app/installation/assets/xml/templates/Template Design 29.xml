@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/48.png">
+  <item type="image" index="0" source="assets/images/labels/LABEL 13.png" xpos="18" ypos="112.25" width="382" height="422.4" rotation="0"/>
+  <item type="text" index="1" font="Myriad Pro Cond" size="28" color="36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@16430387@@@16430387@@@16430387@@@16430387@@@16430387@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304@@@36304" xpos="168.5" ypos="5.5" alignment="center" rotation="0" scalex="0.8745365738868713" scaley="0.8745365738868713"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+  <item type="text" index="2" font="ChunkFive Roman" size="68" color="6525184@@@6525184@@@6525184@@@6525184@@@6525184@@@6525184" xpos="47.5" ypos="205.5" alignment="center" rotation="0" scalex="1.2250980138778687" scaley="1.2250980138778687"><![CDATA[LIVING]]></item>
+  <item type="text" index="3" font="BlackJack" size="68" color="29197@@@29197@@@29197@@@29197@@@29197@@@29197" xpos="50.25" ypos="173.25" alignment="center" rotation="0" scalex="0.6433258056640625" scaley="0.6433258056640625"><![CDATA[Simple]]></item>
+  <item type="text" index="4" font="Copse" size="68" color="880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128@@@880128" xpos="170.5" ypos="291.5" alignment="left" rotation="0" scalex="0.25836181640625" scaley="0.25836181640625"><![CDATA[How to live life with less]]></item>
+  <item type="shape" index="5" shape_type="Circle" color="7829367 " xpos="354" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="6" shape_type="Circle" color="7829367 " xpos="72" ypos="297" width="12" height="12" rotation="0"/>
+  <item type="shape" index="7" shape_type="Circle" color="7829367 " xpos="214" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="8" shape_type="Circle" color="7829367 " xpos="234" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="9" shape_type="Circle" color="7829367 " xpos="254" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="10" shape_type="Circle" color="7829367 " xpos="274" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="11" shape_type="Circle" color="7829367 " xpos="294" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="12" shape_type="Circle" color="7829367 " xpos="314" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="13" shape_type="Circle" color="7829367 " xpos="334" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="14" shape_type="Circle" color="7829367 " xpos="194" ypos="199" width="12" height="12" rotation="0"/>
+  <item type="shape" index="15" shape_type="Circle" color="7829367 " xpos="152" ypos="297" width="12" height="12" rotation="0"/>
+  <item type="shape" index="16" shape_type="Circle" color="7829367 " xpos="132" ypos="297" width="12" height="12" rotation="0"/>
+  <item type="shape" index="17" shape_type="Circle" color="7829367 " xpos="112" ypos="297" width="12" height="12" rotation="0"/>
+  <item type="shape" index="18" shape_type="Circle" color="7829367 " xpos="92" ypos="297" width="12" height="12" rotation="0"/>
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/28.png">
+  <item type="text" index="0" font="Impact" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="7" ypos="77.45" alignment="center" rotation="0" scalex="1.0635069608688354" scaley="1.0635069608688354"><![CDATA[PHOTO HINTS]]></item>
+  <item type="text" index="1" font="Lobster Two" size="68" color="0@@@0@@@0" xpos="147.45" ypos="146.35" alignment="center" rotation="0" scalex="0.866612434387207" scaley="0.866612434387207"><![CDATA[and]]></item>
+  <item type="text" index="2" font="Myriad Pro" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="5.9" ypos="202.45" alignment="center" rotation="0" scalex="1.2461177110671997" scaley="1.2461177110671997"><![CDATA[TIPS BASIC]]></item>
+  <item type="text" index="3" font="Myriad Pro" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="45.2" ypos="275.45" alignment="center" rotation="0" scalex="1" scaley="1"><![CDATA[EXPOSURE]]></item>
+  <item type="text" index="4" font="Myriad Pro" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="4.75" ypos="331.8" alignment="center" rotation="0" scalex="1" scaley="1"><![CDATA[QUICK GUIDE]]></item>
+  <item type="text" index="5" font="BlackJack" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="103.15" ypos="397.95" alignment="center" rotation="0" scalex="0.4757317006587982" scaley="0.4757317006587982"><![CDATA[Author's Name]]></item>
+  <item type="shape" index="6" shape_type="Rectangle" color="0 " xpos="20.9" ypos="290.9" width="33.4" height="46.2" rotation="0"/>
+  <item type="shape" index="7" shape_type="Rectangle" color="0 " xpos="365.2" ypos="291.8" width="33.4" height="46.2" rotation="0"/>
+  <item type="shape" index="8" shape_type="Rectangle" color="0 " xpos="263.15" ypos="162.7" width="130.65" height="46.2" rotation="0"/>
+  <item type="shape" index="9" shape_type="Rectangle" color="0 " xpos="20.2" ypos="164.5" width="130.65" height="46.2" rotation="0"/>
+  <item type="shape" index="10" shape_type="Rectangle" color="0 " xpos="20.9" ypos="72.45" width="370.7" height="11.7" rotation="0"/>
+  <item type="shape" index="11" shape_type="Rectangle" color="0 " xpos="20.9" ypos="413.6" width="81.6" height="16.25" rotation="0"/>
+  <item type="shape" index="12" shape_type="Rectangle" color="0 " xpos="314.3" ypos="410.9" width="81.6" height="16.25" rotation="0"/>
+  <item type="text" index="13" font="Myriad Pro" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@16490500@@@16490500@@@16490500@@@16490500@@@16490500@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="14.5" ypos="32" alignment="center" rotation="0" scalex="0.481719970703125" scaley="0.481719970703125"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+</data>

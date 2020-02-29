@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/34.png">
+  <item type="text" index="0" font="ChunkFive Roman" size="68" color="102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849" xpos="134.8" ypos="218.8" alignment="center" rotation="0" scalex="0.42835816740989685" scaley="0.42835816740989685" filter="true"><![CDATA[TO BE A]]></item>
+  <item type="text" index="1" font="ChunkFive Roman" size="68" color="102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849" xpos="132.6" ypos="180.35" alignment="center" rotation="-8.476424763425826e-15" scalex="0.6030905246734619" scaley="0.6030905246734619" filter="true"><![CDATA[ON HOW ]]></item>
+  <item type="text" index="2" font="ChunkFive Roman" size="68" color="16550948@@@16550948@@@16550948@@@16550948@@@16550948@@@16550948" xpos="129.8" ypos="242.4" alignment="center" rotation="0" scalex="0.6075189709663391" scaley="0.6075189709663391" filter="true"><![CDATA[TRAVEL]]></item>
+  <item type="image" index="3" source="uploaded_image/5279866fac425.png" xpos="17.6" ypos="82" width="119.8" height="343.25" rotation="0"/>
+  <item type="image" index="4" source="assets/images/others/39.png" xpos="11.15" ypos="291" width="105.4" height="137.05" rotation="0"/>
+  <item type="text" index="5" font="ChunkFive Roman" size="68" color="16550948@@@16550948@@@16550948@@@16550948@@@16550948" xpos="128.8" ypos="276.6" alignment="center" rotation="0" scalex="0.7736035585403442" scaley="0.7736035585403442" filter="true"><![CDATA[GUIDE]]></item>
+  <item type="text" index="6" font="ChunkFive Roman" size="68" color="102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849@@@102849" xpos="135.2" ypos="156.8" alignment="center" rotation="0" scalex="0.4283581674098969" scaley="0.4283581674098969" filter="true"><![CDATA[QUICK TIPS]]></item>
+</data>

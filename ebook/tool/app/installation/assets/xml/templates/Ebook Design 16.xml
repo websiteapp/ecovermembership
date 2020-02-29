@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/68.png">
+  <item type="image" index="0" source="assets/images/tags/tag-4.png" xpos="15.8" ypos="307.9" width="380" height="157.05" rotation="0"/>
+  <item type="shape" index="1" shape_type="Circle" color="0 " xpos="239.35" ypos="197.25" width="136.8" height="136.8" rotation="0"/>
+  <item type="shape" index="2" shape_type="Circle" color="0 " xpos="93.95" ypos="66.65" width="220.1" height="220.1" rotation="0"/>
+  <item type="image" index="3" source="assets/images/others/88.png" xpos="99.2" ypos="74.95" width="208" height="208" rotation="0"/>
+  <item type="image" index="4" source="assets/images/others/91.png" xpos="334.15" ypos="159.55" width="107.75" height="148.5" rotation="44.121802953361225"/>
+  <item type="text" index="5" font="Franchise" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="52.05" ypos="362.9" alignment="center" rotation="0" scalex="0.7359851002693176" scaley="0.7359851002693176" filter="false"><![CDATA[4 Hour Swimmer]]></item>
+  <item type="image" index="6" source="uploaded_image/527a92c9447de.png" xpos="28.75" ypos="207.9" width="140.2" height="125.8" rotation="0"/>
+  <item type="text" index="7" font="Copse" size="68" color="16777215@@@16777215@@@16777215@@@16777215" xpos="56.45" ypos="343.5" alignment="center" rotation="0" scalex="0.31113702058792114" scaley="0.31113702058792114" filter="false"><![CDATA[The ]]></item>
+</data>

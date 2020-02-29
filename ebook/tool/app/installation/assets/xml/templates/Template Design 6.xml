@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/77.png">
+  <item type="text" index="0" font="Myriad Pro Cond" size="25" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="141" ypos="498.25" alignment="center" rotation="0" scalex="1.136993408203125" scaley="1.136993408203125"><![CDATA[JOHN CRUZ]]></item>
+  <item type="text" index="1" font="Bitter" size="13" color="8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114@@@8965114" xpos="18.25" ypos="361.25" alignment="center" rotation="0" scalex="1.661397099494934" scaley="1.661397099494934"><![CDATA[Your Guide to Finding and Keeping
+the Job of your Dreams
+]]></item>
+  <item type="text" index="2" font="BlackJack" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="223.5" ypos="211.75" alignment="left" rotation="0" scalex="0.9113712310791016" scaley="0.9504767656326294"><![CDATA[Guide]]></item>
+  <item type="text" index="3" font="ChunkFive Roman" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="32.5" ypos="165.75" alignment="left" rotation="0" scalex="0.86749267578125" scaley="0.86749267578125"><![CDATA[PLANNING]]></item>
+  <item type="text" index="4" font="ChunkFive Roman" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="35" ypos="97.25" alignment="left" rotation="0" scalex="1.1307287216186523" scaley="1.1307287216186523"><![CDATA[CAREER]]></item>
+  <item type="text" index="5" font="BlackJack" size="68" color="16777215@@@16777215@@@16777215" xpos="41" ypos="51" alignment="left" rotation="0" scalex="0.76190185546875" scaley="0.76190185546875"><![CDATA[The]]></item>
+  <item type="image" index="6" source="assets/images/others/76.png" xpos="38" ypos="230.25" width="185" height="97.3" rotation="0"/>
+</data>

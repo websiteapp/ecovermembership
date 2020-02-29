@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/26.png">
+  <item type="text" index="0" font="Myriad Pro Cond" size="25" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="120" ypos="474.25" alignment="center" rotation="0" scalex="1.654982089996338" scaley="1.654982089996338"><![CDATA[JOHN CRUZ]]></item>
+  <item type="text" index="1" font="ChunkFive Roman" size="68" color="12726784@@@12726784@@@12726784@@@12726784@@@12726784@@@12726784" xpos="4.15" ypos="113.25" alignment="center" rotation="0" scalex="1.6239527463912964" scaley="1.6239527463912964"><![CDATA[LIFE'S]]></item>
+  <item type="text" index="2" font="ChunkFive Roman" size="68" color="12990210@@@12990210@@@12990210@@@12990210@@@12990210@@@12990210@@@12990210" xpos="15" ypos="68.75" alignment="center" rotation="0" scalex="0.979034423828125" scaley="0.979034423828125"><![CDATA[KNOWING]]></item>
+  <item type="text" index="4" font="ChunkFive Roman" size="68" color="12395520@@@12395520@@@12395520@@@12395520@@@12395520@@@12395520@@@12395520" xpos="14" ypos="208.75" alignment="center" rotation="0" scalex="1.0733634233474731" scaley="1.0733634233474731"><![CDATA[PURPOSE]]></item>
+  <item type="text" index="5" font="Franchise" size="25" color="4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680@@@4007680" xpos="19.75" ypos="288" alignment="center" rotation="0" scalex="1.766830563545227" scaley="1.766830563545227"><![CDATA[ How do you discover your 
+real purpose in life?]]></item>
+  <item type="image" index="6" source="assets/images/lights/sunlight.png" xpos="32" ypos="1" width="333" height="74.1" rotation="0"/>
+</data>

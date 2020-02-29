@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/38.png">
+  <item type="text" index="0" font="BlackJack" size="68" color="16387328@@@16387328@@@16387328@@@16387328@@@16387328@@@16387328" xpos="19.5" ypos="93.4" alignment="left" rotation="0" scalex="0.9346311688423157" scaley="0.8982259631156921"><![CDATA[How to]]></item>
+  <item type="image" index="1" source="assets/images/tags/tag-3.png" xpos="80.9" ypos="299.55" width="323.6" height="133.75" rotation="0"/>
+  <item type="text" index="2" font="BlackJack" size="21" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="115.65" ypos="342.95" alignment="left" rotation="0" scalex="1.183195948600769" scaley="1.183195948600769"><![CDATA[A Step by Step Guide]]></item>
+  <item type="text" index="3" font="Franchise" size="18" color="3169275@@@3169275@@@3169275@@@3169275@@@3169275@@@3169275@@@3169275@@@3169275@@@3169275" xpos="13.65" ypos="494.5" alignment="left" rotation="0" scalex="2.1425564289093018" scaley="2.1425564289093018"><![CDATA[John Cruz]]></item>
+  <item type="text" index="4" font="Impact" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="13.6" ypos="147" alignment="left" rotation="0" scalex="1.2745239734649658" scaley="1.2745239734649658"><![CDATA[CREATE A ]]></item>
+  <item type="text" index="5" font="Impact" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="106.35" ypos="228.6" alignment="left" rotation="0" scalex="1.207453966140747" scaley="1.207453966140747"><![CDATA[WEBSITE]]></item>
+  <item type="image" index="6" source="assets/images/ribbions/red.png" xpos="2" ypos="-51.75" width="180" height="190.6" rotation="12.265444464299454"/>
+  <item type="text" index="7" font="Myriad Pro" size="19" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="1.35" ypos="66.35" alignment="left" rotation="-29.81182089536662" scalex="0.8115975838688202" scaley="0.8115975838688202"><![CDATA[GRAB A COPY NOW!]]></item>
+</data>

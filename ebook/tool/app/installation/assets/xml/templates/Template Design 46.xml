@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/30.png">
+  <item type="image" index="0" source="assets/images/labels/LABEL 5.png" xpos="8.15" ypos="19.05" width="410" height="97" rotation="0"/>
+  <item type="text" index="1" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@16548630@@@16548630@@@16548630@@@16548630@@@16548630@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="97" ypos="34.95" alignment="center" rotation="0" scalex="0.45144692063331604" scaley="0.45144692063331604"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+  <item type="text" index="2" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="52.7" ypos="178.85" alignment="center" rotation="0" scalex="1.9783039093017578" scaley="1.9783039093017578"><![CDATA[ONLINE]]></item>
+  <item type="image" index="3" source="assets/images/labels/LABEL 20.png" xpos="-64.95" ypos="66.35" width="542.45" height="417.7" rotation="0"/>
+  <item type="text" index="4" font="BlackJack" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="159.05" ypos="171.35" alignment="center" rotation="0" scalex="0.661231279373169" scaley="0.661231279373169"><![CDATA[little]]></item>
+  <item type="text" index="5" font="Franchise" size="68" color="0@@@16518916@@@16644152@@@18417@@@12999168" xpos="106.35" ypos="212.95" alignment="left" rotation="0" scalex="1.9073179960250854" scaley="1.9073179960250854"><![CDATA[ IDEA]]></item>
+  <item type="text" index="6" font="BlackJack" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="129.05" ypos="319.05" alignment="center" rotation="0" scalex="0.6612243056297302" scaley="0.6612243056297302"><![CDATA[matters]]></item>
+  <item type="shape" index="7" shape_type="Star" color="16777215 " xpos="72.45" ypos="253.6" width="54" height="52" rotation="0"/>
+  <item type="shape" index="8" shape_type="Star" color="16777215 " xpos="289.95" ypos="250.9" width="54" height="52" rotation="0"/>
+  <item type="shape" index="9" shape_type="Star" color="9527744 " xpos="298.4" ypos="259.05" width="37.05" height="35.7" rotation="0"/>
+  <item type="shape" index="10" shape_type="Star" color="9527744 " xpos="81.1" ypos="261.8" width="37.05" height="35.7" rotation="0"/>
+</data>

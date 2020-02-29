@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/50.png">
+  <item type="text" index="1" font="Copse" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="129" ypos="389" alignment="center" rotation="0" scalex="0.4070827066898346" scaley="0.4070827066898346"><![CDATA[JOHN CRUZ]]></item>
+  <item type="text" index="2" font="Copse" size="68" color="0@@@0@@@0@@@0@@@0@@@0" xpos="174.75" ypos="417.75" alignment="center" rotation="0" scalex="0.252391517162323" scaley="0.252391517162323"><![CDATA[Author]]></item>
+  <item type="text" index="3" font="ChunkFive Roman" size="68" color="1508352@@@1508352@@@1508352@@@1508352@@@6986241@@@6986241@@@6986241@@@6986241@@@6986241@@@6986241@@@6986241@@@6986241@@@6986241" xpos="43.75" ypos="220" alignment="center" rotation="0" scalex="0.6097837090492249" scaley="0.6097837090492249"><![CDATA[THE 17.6 YEAR]]></item>
+  <item type="text" index="4" font="Bitter" size="25" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="91.75" ypos="139.5" alignment="center" rotation="-0.018847659911937563" scalex="0.7885590026261391" scaley="0.7885590026261391"><![CDATA[Instant EBook Presence]]></item>
+  <item type="text" index="5" font="ChunkFive Roman" size="68" color="1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352@@@1508352" xpos="44.75" ypos="263.25" alignment="center" rotation="0" scalex="0.5254181027412415" scaley="0.5254181027412415"><![CDATA[STOCK MARKET]]></item>
+  <item type="text" index="6" font="ChunkFive Roman" size="68" color="1508352@@@1508352@@@1508352@@@1508352@@@1508352" xpos="131" ypos="301.5" alignment="center" rotation="0" scalex="0.577545166015625" scaley="0.577545166015625"><![CDATA[CYCLE]]></item>
+</data>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/36.png">
+  <item type="text" index="0" font="League Gothic" size="68" color="1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@16548630@@@16548630@@@16548630@@@16548630@@@16548630@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960@@@1313960" xpos="91.55" ypos="501.1" alignment="center" rotation="0" scalex="0.45144692063331604" scaley="0.45144692063331604"><![CDATA[INSTANT EBOOK PRESENCE]]></item>
+  <item type="image" index="1" source="assets/images/tags/TAG 2.png" xpos="130.65" ypos="6.1" width="273.1" height="267.25" rotation="7.504463809783535"/>
+  <item type="shape" index="2" shape_type="Rectangle" color="14125058 " xpos="92.95" ypos="293.85" width="40.7" height="188.1" rotation="0"/>
+  <item type="shape" index="3" shape_type="Rectangle" color="14125058 " xpos="39.95" ypos="242.7" width="40.7" height="238.9" rotation="0"/>
+  <item type="shape" index="4" shape_type="Rectangle" color="14125058 " xpos="146.55" ypos="333.6" width="40.7" height="148.1" rotation="0"/>
+  <item type="shape" index="5" shape_type="Rectangle" color="14125058 " xpos="200.2" ypos="382.45" width="40.7" height="99" rotation="0"/>
+  <item type="shape" index="6" shape_type="Rectangle" color="14125058 " xpos="250.9" ypos="434.3" width="40.7" height="46.3" rotation="0"/>
+  <item type="image" index="7" source="assets/images/others/ARROW 1.png" xpos="329.75" ypos="437.95" width="225.1" height="92.4" rotation="-140.64943093627576"/>
+  <item type="text" index="8" font="ChunkFive Roman" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="126.8" ypos="133.15" alignment="center" rotation="0" scalex="0.39752158522605896" scaley="0.3348841965198517"><![CDATA[ MULTIPLIER 3.0]]></item>
+  <item type="text" index="9" font="ChunkFive Roman" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="135.9" ypos="93.85" alignment="center" rotation="0" scalex="0.6669996976852417" scaley="0.5618969798088074"><![CDATA[TRAFFIC]]></item>
+  <item type="text" index="10" font="Copse" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="136.1" ypos="159.95" alignment="center" rotation="0" scalex="0.22319522500038147" scaley="0.18803420662879944"><![CDATA[INCREASE WEBSITE TRAFFIC]]></item>
+</data>

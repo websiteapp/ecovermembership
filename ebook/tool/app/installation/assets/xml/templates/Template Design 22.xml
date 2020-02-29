@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/9.png">
+  <item type="shape" index="0" shape_type="Rectangle" color="2730480 " xpos="-64.4" ypos="-23.3" width="490.2" height="459.1" rotation="0"/>
+  <item type="shape" index="1" shape_type="Rectangle" color="13487565 " xpos="-14.4" ypos="378.3" width="444" height="183.9" rotation="0"/>
+  <item type="text" index="2" font="Myriad Pro Cond" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="24.95" ypos="20.25" alignment="center" rotation="0" scalex="1.444360375404358" scaley="1.444360375404358"><![CDATA[BUSINESS]]></item>
+  <item type="text" index="3" font="Myriad Pro Cond" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="81.65" ypos="103.3" alignment="center" rotation="0" scalex="1.468407392501831" scaley="1.468407392501831"><![CDATA[PLANS]]></item>
+  <item type="image" index="4" source="uploaded_image/51ddd9141c46c.png" xpos="12.4" ypos="401.05" width="186.35" height="123.65" rotation="0"/>
+  <item type="image" index="5" source="uploaded_image/51ddd9759459d.png" xpos="209.7" ypos="401.65" width="187.6" height="122.65" rotation="0"/>
+  <item type="text" index="6" font="Myriad Pro Cond" size="68" color="16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215@@@16777215" xpos="12.75" ypos="255.25" alignment="center" rotation="0" scalex="1.312677264213562" scaley="1.312677264213562"><![CDATA[STRATEGIES]]></item>
+  <item type="text" index="7" font="BlackJack" size="68" color="16777215@@@16777215@@@16777215@@@16777215" xpos="133.85" ypos="203.85" alignment="center" rotation="0" scalex="0.804977297782898" scaley="0.804977297782898"><![CDATA[ and]]></item>
+  <item type="shape" index="8" shape_type="Rectangle" color="9408399 " xpos="-144.4" ypos="368.3" width="576.9" height="19.1" rotation="0"/>
+  <item type="shape" index="9" shape_type="Rectangle" color="9408399 " xpos="-126.65" ypos="-19.15" width="576.9" height="45.8" rotation="0"/>
+</data>

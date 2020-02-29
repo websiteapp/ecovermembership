@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="0xffffff" pattern_url="backgrounds/9.png">
+  <item type="shape" index="0" shape_type="Rectangle" color="16777215 " xpos="-9.95" ypos="-22.75" width="444" height="963.9" rotation="0"/>
+  <item type="image" index="1" source="uploaded_image/51ddddc018659.png" xpos="1.1" ypos="245.5" width="300" height="300" rotation="0"/>
+  <item type="text" index="2" font="Myriad Pro Cond" size="68" color="15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352" xpos="1.35" ypos="79.15" alignment="center" rotation="0" scalex="1.512208104133606" scaley="1.512208104133606"><![CDATA[ROAD MAP]]></item>
+  <item type="text" index="3" font="BlackJack" size="68" color="15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352" xpos="46.9" ypos="48.85" alignment="center" rotation="0" scalex="0.6963928937911987" scaley="0.6963928937911987"><![CDATA[Business Owner's]]></item>
+  <item type="text" index="4" font="Myriad Pro Cond" size="68" color="15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352@@@15140352" xpos="36.9" ypos="154.45" alignment="center" rotation="0" scalex="1.719438910484314" scaley="1.719438910484314"><![CDATA[SUCCESS]]></item>
+  <item type="text" index="5" font="BlackJack" size="68" color="15140352@@@15140352" xpos="14.65" ypos="175.8" alignment="center" rotation="0" scalex="0.6963653564453125" scaley="0.6963653564453125"><![CDATA[to]]></item>
+  <item type="text" index="6" font="Bitter" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="138" ypos="16.65" alignment="center" rotation="0" scalex="0.3689429759979248" scaley="0.3689429759979248"><![CDATA[JOHN CRUZ]]></item>
+</data>

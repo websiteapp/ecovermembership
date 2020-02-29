@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data bg_color="16777215" pattern_url="backgrounds/67.png">
+  <item type="image" index="0" source="assets/images/labels/LABEL 1.png" xpos="15.2" ypos="111.2" width="383.6" height="298.8" rotation="0"/>
+  <item type="image" index="1" source="assets/images/others/20.png" xpos="236" ypos="341.6" width="110.2" height="128.7" rotation="0"/>
+  <item type="text" index="2" font="Arial" size="68" color="14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000@@@14816000" xpos="67" ypos="237.2" alignment="center" rotation="-8.50454678359075" scalex="0.24896870647434588" scaley="0.24896870647434588" filter="false"><![CDATA[TIME SAVERS GUIDE FOR]]></item>
+  <item type="image" index="3" source="uploaded_image/52798928ce0cc.png" xpos="292.8" ypos="149.8" width="125.45" height="321.2" rotation="0"/>
+  <item type="text" index="5" font="ChunkFive Roman" size="68" color="0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0@@@0" xpos="65.6" ypos="264" alignment="center" rotation="-8.506176756860228" scalex="0.2883278788515821" scaley="0.2883278788515821" filter="false"><![CDATA[BUILDING 
+CONSTRUCTION
+METHOD & PRINCIPLES]]></item>
+  <item type="image" index="6" source="assets/images/ribbions/red1.png" xpos="-17.8" ypos="175.2" width="199.15" height="177.7" rotation="-88.49963463810266"/>
+  <item type="text" index="7" font="ChunkFive Roman" size="68" color="16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771@@@16575771" xpos="2.25" ypos="109.55" alignment="center" rotation="-42.11035303406431" scalex="0.30032104878753474" scaley="0.30032104878753474" filter="false"><![CDATA[NEW EDITION]]></item>
+</data>
