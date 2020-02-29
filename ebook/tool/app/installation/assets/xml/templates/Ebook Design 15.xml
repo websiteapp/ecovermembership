@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<data bg_color="16777215" pattern_url="backgrounds/66.png">
-  <item type="text" index="0" font="Franchise" size="68" color="16475703@@@16475703@@@16475703@@@16475703@@@16475703@@@16475703@@@16475703@@@16475703@@@16475703@@@16475703" xpos="-1.25" ypos="86.45" alignment="center" rotation="0" scalex="1.6473345756530762" scaley="1.6473345756530762" filter="false"><![CDATA[ Made Easy]]></item>
-  <item type="image" index="1" source="assets/images/others/IMAC.png" xpos="32.7" ypos="194.75" width="342.6" height="275.4" rotation="0"/>
-  <item type="text" index="2" font="Franchise" size="68" color="16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816@@@16322816" xpos="20.4" ypos="35.8" alignment="center" rotation="0" scalex="0.9943521618843079" scaley="0.9943521618843079" filter="false"><![CDATA[Email Marketing]]></item>
-  <item type="image" index="3" source="uploaded_image/527a8c87cc08f.png" xpos="123.1" ypos="227.9" width="147.45" height="157.05" rotation="-2.4998363173274956"/>
-</data>

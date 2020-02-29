@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<data bg_color="16777215" pattern_url="backgrounds/50.png">
-  <item type="image" index="0" source="uploaded_image/527a8b1b28ecd.png" xpos="65.6" ypos="116" width="249.15" height="193.5" rotation="0"/>
-  <item type="text" index="1" font="ChunkFive Roman" size="68" color="5244@@@5244@@@5244" xpos="113.75" ypos="337.5" alignment="center" rotation="0" scalex="1.1015042066574097" scaley="1.1015042066574097" filter="true"><![CDATA[YOU]]></item>
-  <item type="image" index="2" source="assets/images/labels/LABEL 5.png" xpos="29.35" ypos="277.5" width="353.35" height="83.6" rotation="0"/>
-  <item type="text" index="3" font="Franchise" size="68" color="69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999@@@69999" xpos="94.75" ypos="290.2" alignment="center" rotation="0" scalex="0.4568576514720917" scaley="0.4568576514720917" filter="true"><![CDATA[How To Become Better]]></item>
-</data>
